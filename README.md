@@ -2,4 +2,4 @@
 ## Sky Cam Enclosure
 ![alt text](allsky.png "Sky Cam Enclosure")
 ## Observatory sketch
-![alt text](obs.png "Observatory)
+![alt text](obs.png "Observatory")
