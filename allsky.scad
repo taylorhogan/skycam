@@ -8,7 +8,7 @@
 smidge = 0.2;
 outsideDiameter = 120;
 capThickness = 3.0;
-capHeight = 2*capThickness;
+capHeight = 10*capThickness;
 cameraHoleDiameter=51;
 supportHeight = 23;
 cameraScrewHoleDiameter= 6.2;
@@ -229,9 +229,9 @@ module p3()
 
 
 
-p3();
-translate([0,0,160]) {p2();}
-translate([0,0,260])rotate ([0, 180, 0]) {p1();}
+//p3();
+//translate([0,0,160]) {p2();}
+////translate([0,0,260])rotate ([0, 180, 0]) {p1();}
 translate ([0, 0, 300]) rotate ([0, 180, 0]) {overhang();}
 
-translate ([150, 0, 0]) gromett();
+//translate ([150, 0, 0]) gromett();
